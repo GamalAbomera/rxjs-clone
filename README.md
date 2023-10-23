@@ -4,6 +4,13 @@ Simple rxjs simulation
 
 I tried to simulate rxjs Observeble Class and create 2 operators and apply them in my observable
 
+## Lib path
+
+| file            | path                         | description                         |
+| --------------- | ---------------------------- | ----------------------------------- |
+| RxObservable.js | src/patterns/RxObservable.js | Library Core Class                  |
+| operators.js    | src/patterns/operators.js    | Contains 2 Operators map and filter |
+
 ## Example
 
 ```javascript
