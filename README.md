@@ -40,3 +40,10 @@ setTimeout(() => {
   console.log("un");
 }, 2000);
 ```
+
+## Example install
+
+    //run these commands
+
+    $ npm install
+    $ npm run dev
